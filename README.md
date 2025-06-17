@@ -1,16 +1,16 @@
-# 👋 Halo! Saya Yongky
+# 👋 Hello! I'm Yongky
 
-Saya adalah seorang **Front-End Developer** dengan minat besar di bidang **UI/UX Design**. Saat ini, saya sedang menempuh pendidikan di jurusan **Informatika** di **Telkom University**.
+I'm a **Front-End Developer** with a strong passion for **UI/UX Design**, currently pursuing a degree in **Informatics** at **Telkom University**.
 
-Saya memiliki semangat untuk membangun antarmuka pengguna yang **interaktif**, **estetis**, dan **user-friendly**. Dengan memadukan prinsip desain yang baik dan pengembangan web modern, saya percaya bahwa pengalaman pengguna adalah hal utama dalam setiap produk digital.
+I’m driven by the goal of creating **interactive**, **aesthetic**, and **user-friendly** interfaces. By combining solid design principles with modern web development practices, I believe that delivering a great user experience is the key to every successful digital product.
 
-Saya terbiasa menggunakan berbagai tools dan teknologi seperti **React**, **Next.js**, **Tailwind CSS**, dan **Figma** untuk menciptakan tampilan aplikasi yang responsif dan menarik. Selain itu, saya juga terus mengembangkan keterampilan saya dalam mengoptimalkan performa front-end dan meningkatkan aksesibilitas antarmuka.
+I’m proficient in using a wide range of tools and technologies such as **React**, **Next.js**, **Tailwind CSS**, and **Figma** to build responsive and engaging web applications. I'm also continuously improving my skills in front-end performance optimization and accessibility enhancements.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yongky-yongky-b98b84280) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yongky-yongky-b98b84280)
 
 ## 🌟 Deployed Projects:
-- 🔗 [Website IEEE SB Telkom University](https://ieeesb.orgs.telkomuniversity.ac.id/)
+- 🔗 [IEEE SB Telkom University Website](https://ieeesb.orgs.telkomuniversity.ac.id/)
 - 🔗 [MindTrack - Mental Health Tracker App](https://fe-mind-track-rho.vercel.app/)
 
 # 💻 Tech Stack:
